@@ -1,0 +1,16 @@
+{
+    "name": "Github",
+    "description": "Github数据接入飞书搜索",
+    "icon_url": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_8b970cec-6577-4cd7-b556-d13bedde0feg",
+    "schema_id": "github_search_anycross_schema_demo",
+     "i18n_name": {
+        "zh_cn": "Github",
+        "en_us": "Github",
+        "ja_jp": "Github"
+    },
+    "i18n_description": {
+        "zh_cn": "Github数据接入飞书搜索",
+        "en_us": "Github in Feishu Search",
+        "ja_jp": "Github in Feishu Search"
+    }
+}
